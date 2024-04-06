@@ -1,3 +1,3 @@
 ## About AsanaCMS
 
-Still under development
+Simple CMS using laravel. Still under development
